@@ -5,6 +5,7 @@ public class Main {
     void main(){
         System.out.println("my name is Nadezda");
         System.out.println("my age is");
+        System.out.println(("I live in "));
 
     }
 }
